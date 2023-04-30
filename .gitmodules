@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:GillyRabutTsurwa/shop-frontend.git
+[submodule "api"]
+	path = api
+	url = git@github.com:GillyRabutTsurwa/shop-studio.git
+[submodule "server"]
+	path = server
+	url = git@github.com:GillyRabutTsurwa/shop-server.git
